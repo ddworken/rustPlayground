@@ -1,3 +1,5 @@
+// fibonacci calculator
+
 use std::io;	//import io from std
 
 fn main(){
