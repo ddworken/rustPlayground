@@ -1,0 +1,8 @@
+[package]
+
+name = "Car_Dice"
+version = "0.0.1"
+authors = [ "David Dworken <david@daviddworken.com>" ]
+
+[dependencies]
+rand = "0.3"
